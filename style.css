@@ -58,10 +58,12 @@ body:not(modal) {
 
 .modal-active {
     opacity: 1;
+    transition: 0.5s;
 }
 
 .close {
     font-size: 1.8em;
+    transition: 0.5s;
     
 }
 
